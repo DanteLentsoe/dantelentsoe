@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I am Dante, and I am a Software Developer, Typescript is my wife our kids are React, and React-Native, and I have a mistress called python, and my best friend is Node.js
+## I am Dante, and I am a Software Developer, Typescript is my wife our kids are React, and React-Native, and I have a mistress called python, and my best friend is Node.js
 
 My Current Status:
 
