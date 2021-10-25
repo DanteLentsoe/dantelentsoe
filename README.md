@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-##I am Dante, and I am a Software Developer 
+##I am Dante, and I am a Software Developer, Typescript is my wife our kids are React, and React-Native, and I have a mistress called python, and my best friend is Node.js
 
 My Current Status:
 
 - 🔭 I’m currently working on : engineering-hub (private repo) and react ui components (https://github.com/DanteLentsoe/mobile-app-template-package)
-- 🌱 I’m currently learning : Flutter and Firebase
+- 🌱 I’m currently learning : Flutter and Firebase, and also a bit of Vue.js
 - 📫 How to reach me: Email: dllentsoe@gmail.com, cell: +27812195594, website : https://dantelentsoe.com
 
 
