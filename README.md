@@ -4,7 +4,7 @@ Hi 👋 My name is Dante Lentsoe
 SOFTWARE DEVELOPER
 ------------------
 
-###I am Dante, and I am a Software Developer. Typescript is my wife (JavaScript being my ex-wife), and our kids are React, and React-Native, and I have a mistress called python, and my best friend is Node.js
+I am Dante, and I am a Software Developer. Typescript is my wife (JavaScript being my ex-wife), and our kids are React, and React-Native, and I have a mistress called python, and my best friend is Node.js
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [https://dantelentse.com](http://https://web-qr-code-seven.vercel.app/)
